@@ -1,0 +1,5 @@
+# Reserved for future phases; Phase 1 runtime code is standard-library only.
+sentence-transformers
+openai
+feedparser
+numpy
